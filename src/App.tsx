@@ -1,6 +1,6 @@
 import './App.css';
 import { MuiTable } from './components/MuiTable';
-// import { MuiTooltip } from './components/MuiTooptip';
+// 0// import { MuiTooltip } from './components/MuiTooptip';
 // import { MuiChip } from './components/MuiChip';
 // import { MuiList } from './components/MuiList';
 // import { MuiBadge } from './components/MuiBadge';
