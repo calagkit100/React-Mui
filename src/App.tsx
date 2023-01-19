@@ -1,5 +1,6 @@
 import './App.css';
-import { MuiSnackbar } from './components/MuiSnackbar';
+import { MuiDialog } from './components/MuiDialog';
+// import { MuiSnackbar } from './components/MuiSnackbar';
 // import { MuiAlert } from './components/MuiAlert';
 // import { MuiTable } from './components/MuiTable';
 // 0// import { MuiTooltip } from './components/MuiTooptip';
@@ -58,7 +59,8 @@ function App() {
       {/* <MuiTooltip /> */}
       {/* <MuiTable /> */}
       {/* <MuiAlert /> */}
-      <MuiSnackbar />
+      {/* <MuiSnackbar /> */}
+      <MuiDialog />
     </div>
   );
 }
