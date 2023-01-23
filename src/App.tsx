@@ -1,5 +1,6 @@
 import './App.css';
-import { MuiMasonry } from './components/MuiMasonry';
+import { MuiResponsiveness } from './components/MuiResponsiveness';
+// import { MuiMasonry } from './components/MuiMasonry';
 // import { LocalizationProvider } from '@mui/lab';
 // import AdapterDateFns from '@mui/lab/AdapterDateFns'
 // import { MuiDateTimePicker } from './components/MuiDateTimePicker';
@@ -77,7 +78,8 @@ function App() {
       {/* <MuiDateTimePicker /> */}
       {/* <MuiTabs /> */}
       {/* <MuiTimeline /> */}
-      <MuiMasonry />
+      {/* <MuiMasonry /> */}
+      <MuiResponsiveness />
     </div >
 
   );

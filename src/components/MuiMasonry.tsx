@@ -24,7 +24,7 @@ export const MuiMasonry = () => {
                             //   display: 'flex',
                             //   justifyContent: 'center',
                             //   alignItems: 'center',
-                            //   height,
+                            //   height,    
                             border: '1px solid'
                         }}>
                         <Accordion sx={{ minHeight: height }}>
